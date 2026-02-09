@@ -1,0 +1,1 @@
+In this lab I learned how to use Git and GitHub to manage version control for a web development project, initializing a Git repository, creating and switching between branches, and committing changes using clear and descriptive commit messages.
